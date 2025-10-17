@@ -14,7 +14,7 @@ but I have use 103.133.254.0/30, 103.133.254.4/30, 103.133.254./30, 103.133.254.
 
 > SSH is enabled only for Finace and Admin.
 
-## Project #6 Case Study and Requirements
+## Project Case Study and Requirements
 
 A trading floor Support center employs 600 staff. They have recently expanded and as a result, need to move to a new 
 building. A building has been identified but has no network. This means that before they can make to move out, new 
@@ -82,6 +82,7 @@ I have followed [this video](https://www.youtube.com/watch?v=eqEd84yeRxg&t=8s).
 
 ### Topology
 ![Topology](image.png)
+
 
 
 
