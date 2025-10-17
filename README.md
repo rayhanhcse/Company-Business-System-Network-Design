@@ -1,10 +1,3 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md)
 
 # Company Business System Network Design
  Enterprise Networking Projects/ Cisco Packet Tracer Projects 
@@ -89,6 +82,7 @@ I have followed [this video](https://www.youtube.com/watch?v=eqEd84yeRxg&t=8s).
 
 ### Topology
 ![Topology](image.png)
+
 
 
 
