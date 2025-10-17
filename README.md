@@ -7,7 +7,7 @@
 [![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md)
 
 # Company Business System Network Design
- Enterprise Networking Projects/ Cisco Packet Tracer Projects (Project #6)
+ Enterprise Networking Projects/ Cisco Packet Tracer Projects 
 
 > In the Case Study and Requirements the Base Network is 172.16.1.0 but I have use 192.168.0.0
 
@@ -91,16 +91,4 @@ I have followed [this video](https://www.youtube.com/watch?v=eqEd84yeRxg&t=8s).
 ![Topology](image.png)
 
 
-[contributors-shield]: https://img.shields.io/github/contributors/Mehedi-Hasan-Rabbi/Company-Business-System-Network-Design.svg?style=for-the-badge
-[contributors-url]: https://github.com/Mehedi-Hasan-Rabbi/Company-Business-System-Network-Design/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Mehedi-Hasan-Rabbi/Company-Business-System-Network-Design.svg?style=for-the-badge
-[forks-url]: https://github.com/Mehedi-Hasan-Rabbi/Company-Business-System-Network-Design/network/members
-[stars-shield]: https://img.shields.io/github/stars/Mehedi-Hasan-Rabbi/Company-Business-System-Network-Design.svg?style=for-the-badge
-[stars-url]: https://github.com/Mehedi-Hasan-Rabbi/Company-Business-System-Network-Design/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Mehedi-Hasan-Rabbi/Company-Business-System-Network-Design.svg?style=for-the-badge
-[issues-url]: https://github.com/Mehedi-Hasan-Rabbi/Company-Business-System-Network-Design/issues
-[license-shield]: https://img.shields.io/github/license/Mehedi-Hasan-Rabbi/Company-Business-System-Network-Design.svg?style=for-the-badge
-[license-url]: https://github.com/Mehedi-Hasan-Rabbi/Company-Business-System-Network-Design/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/ultr4-instinct/
 
